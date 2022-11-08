@@ -1,2 +1,3 @@
 # RESUME
-##This is my Resume Repository.
+
+This is my Resume Repository.
